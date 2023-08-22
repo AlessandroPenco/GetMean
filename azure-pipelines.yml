@@ -8,7 +8,6 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  devEmpowerAzureSubscription: 'SCPenco'
   azureSubscription: '0579d9d8-fa71-4f87-b4c1-9c0fa8864970'
 
   # Function app name
